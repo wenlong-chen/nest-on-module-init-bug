@@ -1,8 +1,9 @@
-Execute `npm run start` to reproduce the bug.
+Run `npm start` to reproduce the bug.
 
-You are expected to get the following log:
+You should see the following log:
+
 ```
- % npm run start
+ % npm start
 
 > nest-on-module-init-bug@0.0.1 start
 > nest start
